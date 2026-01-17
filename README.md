@@ -15,11 +15,11 @@ It captures face images via webcam 📷 and recognizes individuals in live video
       
 ✨ Features
 
-			🎥 Real-time face detection using webcam
-			📸 Face image capture and storage
-			🧠 Face recognition using pre-trained facial encodings
-			🏷️ Displays person name or Unknown
-			⚡ Lightweight and CPU-friendly
+	  🎥 Real-time face detection using webcam
+	  📸 Face image capture and storage
+	  🧠 Face recognition using pre-trained facial encodings
+	  🏷️ Displays person name or Unknown
+	  ⚡ Lightweight and CPU-friendly
 
 🔄 Project Workflow
 
